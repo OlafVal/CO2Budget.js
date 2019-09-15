@@ -18,9 +18,8 @@ http://projects.olafval.de/co2-budget/p5.co2Budget.js
 		<script src="http://projects.olafval.de/co2-budget/p5.co2Budget.js"></script>
 	
 ### Download the library package as ZIP-File:
-- p5-co2Budget-Library
 - Sign up to receive updates in case the research data should change!
-- Newsletter
+- [Newsletter](https://mailchi.mp/466342f40b18/p5co2budgetjs)
 
 
 ### Reference

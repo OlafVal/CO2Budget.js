@@ -25,7 +25,7 @@ http://projects.olafval.de/co2-budget/p5.co2Budget.js
 ## Reference
 
 **Syntax:**
-```
+```javascript
 co2Budget(s, agr).budget
 co2Budget(s, agr).years
 co2Budget(s, agr).months
@@ -35,7 +35,7 @@ co2Budget(s, agr).minutes
 co2Budget(s, agr).seconds
 ```
 **Parameters:**
-```
+```javascript
 s = Scenario (1.5 or 2)
 agr = Annual Growth Rate (1)
 ```

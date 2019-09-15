@@ -47,7 +47,7 @@ agr = Annual Growth Rate (1)
 **Basic** [view](http://projects.olafval.de/co2-budget/examples/basic.html)
 
 ![co2-Clipart Example](examples/co2Clipart.jpg?s=200)  
-**co2Clipart** [view](http://projects.olafval.de/co2-budget/examples/co2Clipart.html)
+**co2Clipart** [view](http://projects.olafval.de/co2-budget/examples/co2clipart.html)
 
 ![co2-DataVisualization Example](examples/co2DataVisualization.jpg)  
 **co2DataVisualization** [view](http://projects.olafval.de/co2-budget/examples/co2DataVisualization.html)

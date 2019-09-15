@@ -44,4 +44,12 @@ agr = Annual Growth Rate (1)
 ## Examples
 
 ![co2-clock-Basic Example](examples/basic.jpg)  
-Basic
+**Basic**
+
+![co2-Clipart Example](examples/co2Clipart.jpg)  
+**co2Clipart**
+
+![co2-DataVisualization Example](examples/co2DataVisualization.jpg)  
+**co2DataVisualization**
+
+<br>

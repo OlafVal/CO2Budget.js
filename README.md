@@ -1,7 +1,7 @@
 ![co2-countdown](trees-720.jpg)
 
 # Co2Budget.js
-### This library opens up the idea of the CO2-Countdown to creative communities of coderer, designers and artists inside the [p5*js](https://p5js.org) project.
+### This library opens up the idea of the CO2-Countdown to creative communities of coders, designers and artists associated with [p5*js](https://p5js.org) and JavaScript.
 
 **Co2Budget Library**
 - based on Carbon-Clock

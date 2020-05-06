@@ -46,7 +46,5 @@ agr = Annual Growth Rate (1)
 
 ## Examples
 
-<img src="Examples/commands.jpg" width=200> 
-**Commands** [view](http://projects.olafval.de/co2-budget/examples/basic.html)
-
+<img src="Examples/commands.jpg" width=200> **Commands** [view](http://projects.olafval.de/co2-budget/examples/basic.html)
 <br>

@@ -16,8 +16,8 @@ function draw() {
   textSize(18);
   fill(255);
   l = 0;
-  
-  text('C02-Budget:', 100, 80 + 20 * l);
+
+  text('C02-Budget (1.5 °C):', 100, 80 + 20 * l);
   l++;
   text(co2B.budgetT() + ' tons', 100, 80 + 20 * l);
   l++;
@@ -58,8 +58,10 @@ function draw() {
   // Co2-Budget Commands - - - - - - - - - - -
   textSize(14);
   fill(255);
-  l = 1;
+  l = 0;
   
+  text('co2B = new Co2Budget(1.5, 1)', 350, 80 + 20 * l);
+  l++;
   text('co2B.budgetT()', 350, 80 + 20 * l);
   l++;
   text('co2B.budgetTString()', 350, 80 + 20 * l);

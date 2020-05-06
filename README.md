@@ -1,9 +1,9 @@
 ![co2-countdown](trees-720.jpg)
 
-# p5.co2Budget.js
+# Co2Budget.js
 ### This library opens up the idea of the CO2-countdown to creative communities of coderer, designers and artists using the [p5*js](https://p5js.org) project.
 
-**p5.co2Budget Library**
+**Co2Budget Library**
 - based on Carbon-Clock
 - by Mercator Research Institute on Global Commons and Climate Change (MCC) gGmbH
 - https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm
@@ -11,8 +11,8 @@
 - by Olaf Val
 - CC BY 4.0 
 
-### Embed the p5.co2Budget.js library online to stay up-to-date automatically.
-http://projects.olafval.de/co2-budget/p5.co2Budget.js
+### Embed the Co2Budget.js library online to stay up-to-date automatically.
+http://projects.olafval.de/co2-budget/Co2Budget.js
 
 		Place this line in the header of your html code:
 		<script src="http://projects.olafval.de/co2-budget/p5.co2Budget.js"></script>

@@ -1,4 +1,4 @@
-![co2-countdown](co2-countdown.jpg)
+![co2-countdown](examples/images/trees.jpg)
 
 # p5.co2Budget.js
 ### This library opens up the idea of the CO2-countdown to creative communities of coderer, designers and artists using the [p5*js](https://p5js.org) project.

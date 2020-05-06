@@ -5,7 +5,7 @@ var co2B
 var l;
 
 function preload() {
-  i = loadImage('trees.jpg');
+  i = loadImage('images/trees.jpg');
 }
 
 function setup() {

@@ -16,6 +16,8 @@
 
 **Syntax:**
 ```javascript
+co2B = new Co2Budget(s, agr);
+
 co2B.budgetT()
 co2B.budgetTString()
 

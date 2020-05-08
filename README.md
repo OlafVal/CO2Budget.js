@@ -44,7 +44,8 @@ agr = Annual Growth Rate (1)
 ```
 
 
-### Embed the Co2Budget.js library online to stay up-to-date automatically.
+### Embed the Co2Budget.js library online to stay up-to-date automatically!
+(Linking from GitHub doesn’t work in p5js online editor currently.)
 https://raw.githubusercontent.com/OlafVal/Co2Budget.js/master/Co2Budget.js
 
 		Place this line in the header of your html code:
@@ -53,6 +54,7 @@ https://raw.githubusercontent.com/OlafVal/Co2Budget.js/master/Co2Budget.js
 or
 
 ### Download the library package as ZIP-File:
+(Recommended for the p5js online editor.)
 - Sign up to receive updates in case the research data should change!
 - [Newsletter](https://mailchi.mp/466342f40b18/p5co2budgetjs)
 

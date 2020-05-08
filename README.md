@@ -43,6 +43,7 @@ s = Scenario (1.5 or 2)
 agr = Annual Growth Rate (1)
 ```
 
+  <script src="https://raw.githubusercontent.com/OlafVal/Co2Budget.js/master/Co2Budget.js"></script>
 
 ## Examples
 

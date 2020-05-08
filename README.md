@@ -43,7 +43,16 @@ s = Scenario (1.5 or 2)
 agr = Annual Growth Rate (1)
 ```
 
-  <script src="https://raw.githubusercontent.com/OlafVal/Co2Budget.js/master/Co2Budget.js"></script>
+### Embed the Co2Budget.js library online to stay up-to-date automatically.
+https://raw.githubusercontent.com/OlafVal/Co2Budget.js/master/Co2Budget.js
+
+		Place this line in the header of your html code:
+		<script src="https://raw.githubusercontent.com/OlafVal/Co2Budget.js/master/Co2Budget.js"></script>
+	
+### Download the library package as ZIP-File:
+- Sign up to receive updates in case the research data should change!
+- [Newsletter](https://mailchi.mp/466342f40b18/p5co2budgetjs)
+
 
 ## Examples
 

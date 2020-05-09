@@ -62,6 +62,9 @@ or
 
 ## Examples
 
+
+<img src="Examples/co2-budget-basic.jpg" width=200> **Commands** [view](http://projects.olafval.de/co2-budget/co2-budget-basic.html) / [code](/Examples/co2-budget-basic.js)
+
 <img src="Examples/commands.jpg" width=200> **Commands** [view](http://projects.olafval.de/co2-budget/commands.html) / [code](/Examples/commands.js)
 
 <br>

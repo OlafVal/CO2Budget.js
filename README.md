@@ -69,5 +69,5 @@ or
 
 <br>
 
-### Check out 
-* * what other designs have already developed for the CO2 countdown! I am also happy to publish your contribution on the Co2Budget.js project page.
+### *Check out* 
+*what other designs have already developed for the CO2 countdown! I am also happy to publish your contribution on the Co2Budget.js project page.*

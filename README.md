@@ -70,4 +70,4 @@ or
 <br>
 
 ### *Check out* 
-*the multifaceted designs others have already developed for the CO2 countdown! I am also happy to publish your contribution on the [Co2Budget.js project page](http://projects.olafval.de/p5-co2budget-js/).*
+*the multifaceted designs others have already developed for the CO2 countdown! I am also happy to publish your contribution on the [Co2Budget.js-project-page](http://projects.olafval.de/p5-co2budget-js/).*

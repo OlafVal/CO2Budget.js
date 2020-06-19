@@ -68,3 +68,6 @@ or
 <img src="Examples/commands.jpg" width=200> **Commands** [view](http://projects.olafval.de/co2-budget/commands.html) / [code](/Examples/commands.js)
 
 <br>
+
+###Check out 
+what other designs have already developed for the CO2 countdown! I am also happy to publish your contribution on the Co2Budget.js project page.

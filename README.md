@@ -11,7 +11,7 @@
 - by Olaf Val
 - CC BY 4.0 
 
-The MCC-Berlin has changed its formality a bit recently, I will adapt the CO2Budget.js to this change as soon as possible. 
+The MCC-Berlin has changed its formality a bit recently, I will adapt the CO2Budget.js to this as soon as possible. 
 
 
 ## Reference

@@ -1,18 +1,18 @@
 // Co2Budget Class for p5js
 // by Olaf Val
-// based on Carbon-Clock 
+// based on Carbon-Clock
 // by Mercator Research Institute on Global Commons and Climate Change (MCC) gGmbH
 // https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm
-// Version 0.5 | 02.06.2019
+// Version 0.6 | 29.06.2022
 // CC BY-SA 4.0
 
 function Co2Budget(x, y) {
 
   this.secondsPerYear = 3600 * 24 * 365.25;
-  this.startDate = new Date(2018, 0, 1, 0, 0, 0);
-  this.initialAnnualEmissions = 42.0 * 1e+9; // 1.5 (117.0 * 1e+9 = 2,0°)
+  this.startDate = new Date(2021, 0, 1, 0, 0, 0);
+  this.initialAnnualEmissions = 42.2 * 1e+9; // 1.5 (117.0 * 1e+9 = 2,0°)
   this.annualGrowthRate = 1.000; // 1.022;
-  this.totalBudget = 420 * 1e+9; // 1,5° (1170 * 1e+9 = 2,0°)
+  this.totalBudget = 422 * 1e+9; // 1,5° (1170 * 1e+9 = 2,0°)
   this.yearsRemaining;
   this.dd = [];
 
@@ -20,10 +20,10 @@ function Co2Budget(x, y) {
 
   // switch scenarios (1.5°C or 2°C)
   if (x == 1.5) {
-    this.totalBudget = 420 * 1e+9;
+    this.totalBudget = 361 * 1e+9;
   }
   if (x == 2) {
-    this.totalBudget = 1170 * 1e+9;
+    this.totalBudget = 1111 * 1e+9;
   }
 
   this.budgetT = function() {
